@@ -1,0 +1,16 @@
+{"results": [
+    {"id": "1", "titulo": "Orijen Perro Original", "precio":"$104,350", "descripcion":"Orijen Perro Original es una fuente natural que provee prácticamente todos los nutrientes que tu perro necesita para crecer.", "peso": "2 kg", "edad": "Adulto", "presentacion": "2.0 Kg", "raza": "Raza Grande, Raza Mediana, Raza Pequeña", "tipo_alimento": "Seco"},
+    
+    {"id": "2", "titulo": "Taste Of The Wild", "precio":"$68,700", "descripcion":"Taste Of The Wild Perro Adulto Appalachian Small Breed El venado altamente digerible y el tamaño de las croquetas pequeñas hacen que esta receta sea fácil para el estómago y los dientes de su perro de raza pequeña.", "peso": "2.2 kg", "edad": "Adulto", "presentacion": "2.2 kg", "raza": "Raza Mini, Raza Pequeña", "tipo_alimento": "Seco"},
+    
+    {"id": "3", "titulo": "Acana Perro Duck & Pear", "precio":"$101,913", "descripcion":"Acana Perro Duck & Pear contiene una sola proteína animal de fácil digestión,garantiza mantener a tu perro saludable, feliz y fuerte.", "peso": "2 kg", "edad": "Adulto", "presentacion": "2.2 kg", "raza": "Raza Grande, Raza Mediana", "tipo_alimento": "Seco"},
+    
+    {"id": "4", "titulo": "Hill’s Science Diet", "precio":"$73,240", "descripcion":"Hill’s Science Diet perro adulto 7+ raza mini & pequeña es un alimento seco para perros que se adapta a la nutrición para apoyar el envejecimiento elegante en perros pequeños y pequeños.", "peso": "2kg", "edad": "Adulto", "presentacion": "2 kg", "raza": "Raza Mini, Raza Pequeña", "tipo_alimento": "Seco"},
+    
+    {"id": "5", "titulo": "Royal Canin", "precio":"$98,254", "descripcion":"Royal Canin Beagle Adult Esta fórmula ayuda a mantener el peso ideal gracias al contenido adaptado de calorías.", "peso": "2.7 kg", "edad": "Adulto", "presentacion": "2.7 Kg", "raza": "Raza Mediana", "tipo_alimento": "Seco"},
+    
+    {"id": "6", "titulo": "Evolve Perro Classic Carne", "precio":"$44,651", "descripcion":"Evolve Perro Classic Carne es rico en nutrientes y contiene proteínas de alta calidad, carbohidratos complejos, vegetales, minerales, vitaminas, aceites y grasas.", "peso": "1.8 kg", "edad": "Adulto, Cachorro", "presentacion": "1.8 Kg", "raza": "Raza Grande, Raza Mediana, Raza Pequeña", "tipo_alimento": "Seco"},
+    
+    {"id": "7", "titulo": "Pro Plan Perro Adulto", "precio":"$91,350", "descripcion":"Pro Plan Perro Adulto 7+ Raza Mediana & Grande Formulado con fuentes naturales de glucosamina, que ayudan a mantener articulaciones sanas y una movilidad óptima. Contiene una equilibrada proporción de proteína y grasa para mantener la masa muscular magra u una combinación de antioxidantes naturales, Vitamina E y C.", "peso": "2.2 Kg", "edad": "Adulto 7+", "presentacion": "2.2 Kg", "raza": "Raza Grande, Raza Mediana", "tipo_alimento": "Seco"}
+
+]}
